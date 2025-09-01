@@ -38,6 +38,58 @@ Petopia 是一個專為毛孩與飼主打造的 **寵物生活平台**，整合�
 
 ---
 
+## 📸 Screenshots
+
+以下展示了本專案的核心功能畫面：
+
+### 🔍 地圖入口首頁
+使用者可以透過入口頁面了解地圖與交友的檢疫功能介紹。
+![Map Search](./screenshots/map-index1.png)
+![Map Search](./screenshots/map-index2.png)
+![Map Search](./screenshots/map-index3.png)
+![Map Search](./screenshots/map-index4.png)
+![Map Search](./screenshots/map-index5.png)
+
+### 🔍 地圖搜尋地點
+使用者可以透過地圖搜尋附近的寵物友善地點，不同地點類型會顯示不同顏色的圖標。
+![Map Search](./screenshots/map-search1.png)
+![Map Search](./screenshots/map-search2.png)
+![Map Search](./screenshots/map-search3.png)
+
+### 🔍 詳細地點卡片
+使用者可以查看地點詳細資訊，獲得地點的資訊及其他使用者的評論及分享的照片，按下導航功能會顯示定位與目標地點的路徑。
+![Map Search](./screenshots/map-detail1.png)
+![Map Search](./screenshots/map-detail2.png)
+![Map Search](./screenshots/map-detail3.png)
+![Map Search](./screenshots/map-navigation1.png)
+
+
+### 🐾 寵物交友配對
+寵物交友功能，讓毛孩們也能認識新朋友。
+![Pet Match](./screenshots/friend1.png)
+![Pet Match](./screenshots/friend2.png)
+![Pet Match](./screenshots/friend3.png)
+![Pet Match](./screenshots/friend4.png)
+![Pet Match](./screenshots/friend5.png)
+![Pet Match](./screenshots/friend6.png)
+![Pet Match](./screenshots/friend7.png)
+![Pet Match](./screenshots/friend8.png)
+![Pet Match](./screenshots/friend9.png)
+![Pet Match](./screenshots/friend10.png)
+![Pet Match](./screenshots/friend11.png)
+![Pet Match](./screenshots/friend12.png)
+![Pet Match](./screenshots/friend13.png)
+![Pet Match](./screenshots/friend14.png)
+![Pet Match](./screenshots/friend15.png)
+
+---
+
+### 🎬 期末專題發表影片
+以下展示了完整的操作流程：（稍等資展國際將影片連結上傳）
+
+---
+
+
 ## 📂 專案結構 (前端部分)
 
 ```bash
